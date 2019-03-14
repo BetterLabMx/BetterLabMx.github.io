@@ -1,2 +1,2 @@
-# BetterLabMx.github.io
+# BetterLabMx
 Tecnologías para el laboratorio
