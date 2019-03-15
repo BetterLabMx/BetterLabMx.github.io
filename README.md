@@ -1,3 +1,3 @@
 # BetterLabMx  
-![BetterLab logo](images/BetterLab.png)
+![BetterLab logo](imagenes/BetterLab.png)
 Tecnologías para el laboratorio
